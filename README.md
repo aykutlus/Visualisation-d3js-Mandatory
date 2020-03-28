@@ -2,7 +2,7 @@
 
 In below map, infected cases are shown by circles. With button, it can be seen evaluation of confirmed cases in Spain. 
 
-![Screen Shot 2020-03-28 at 13 26 37](https://user-images.githubusercontent.com/35189163/77822980-e5089780-70f7-11ea-87c2-29dd49b71bb4.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35189163/77831237-464b5d80-712e-11ea-98e7-eb0d4a4af995.gif)
 
 
 # Installation
